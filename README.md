@@ -63,7 +63,7 @@
 
 ![Anubhav's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=AnubhavOfficial&theme=react-dark&hide_border=true&area=true)
 
-| ![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=AnubhavOfficial&show_icons=true&theme=tokyonight) | ![Anubhav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnubhavOfficial&theme=tokyonight) |
+| ![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=AnubhavOfficial&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=AnubhavOfficial) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavOfficial&theme=tokyonight)                   | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
 
