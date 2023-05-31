@@ -9,9 +9,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="AnubhavOfficial" /></p>
 
-- 🌍  I'm based in Punjab, India
+- 🌍  I'm based in Hyderabad, India
 - 🖥️  See my portfolio at [anubhavofficial.netlify.app/](http://anubhavofficial.netlify.app/)
-- 🌱 I’m currently working on React.js
+- 🌱 I’m currently working on React.js & Java
 - 📫 How to reach me **anubhavpanfer@gmail.com**
 - 🤝  I'm open to collaborating on ReactJS
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
